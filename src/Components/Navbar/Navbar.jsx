@@ -21,13 +21,13 @@ class Navbar extends Component {
         <div>
 
           <Button as="a" href="#"> Como fazer </Button>
-          <spam> / </spam>
+          <span> / </span>
           <Button as="a" href="#"> Ofertas </Button>
-          <spam> / </spam>
+          <span> / </span>
           <Button as="a" href="#"> Depoimentos </Button>
-          <spam> / </spam>
+          <span> / </span>
           <Button as="a" href="#"> Videos </Button>
-          <spam> / </spam>
+          <span> / </span>
           <Button as="a" href="#"> Meu Carrinho </Button>
 
 

@@ -34,7 +34,7 @@ width: 446px;
 height: 60px;
 
 
-input[type=e-mail]{
+input[type=text]{
   background-image: url('${mail}');
   background-repeat: no-repeat;
   border: none;
@@ -42,13 +42,13 @@ input[type=e-mail]{
   padding: 22.5px 20px 22.5px 60px;
   transition: 1s;
   outline: none;
-  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.344);
+  box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
 input[type=submit]{
   color: white;
   background-color: #FFCB47;
-  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.344);
+  box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.2);
   border: none;
 
   padding: 22.5px 42.9px 22.5px 42.9px;
