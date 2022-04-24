@@ -1,6 +1,5 @@
 import { React, useState, useEffect } from "react";
 import { Container, Cards, CardsInfo, Media, Content } from "./Styled";
-import filterPrice from "../FiltroPreco/Filtropreco";
 import axios from "axios";
 
 export default function Containers() {
