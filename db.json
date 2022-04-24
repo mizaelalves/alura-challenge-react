@@ -1,0 +1,109 @@
+{
+  "Ofertas": [
+    {
+      "id": 1,
+      "name": "Ajuga Reptans",
+      "preco": 20,
+      "img": "ajuga01_card",
+      "ordem": 0
+    },
+    {
+      "id": 2,
+      "name": "Cordyline fruticosa",
+      "preco": 35,
+      "img": "fruticosa01_card",
+      "ordem": 3
+    },
+    {
+      "id": 3,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 4,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 5,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 6,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 7,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 8,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 9,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 10,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 11,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 12,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 13,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 14,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    },
+    {
+      "id": 15,
+      "name": "Crassula ovata",
+      "preco": 23.2,
+      "img": "ovata01_card",
+      "ordem": 2
+    }
+  ]
+}

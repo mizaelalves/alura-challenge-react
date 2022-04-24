@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
-import imgHero from "../Style/assets/imagem-hero.png";
-import { Info, Content, ImgHero, Form } from "./Styled";
+import imgHero from "../assets/imagem-hero.png";
+import { Info, Content, ImgContent, Form } from "./Styled";
 import { useForm } from "react-hook-form";
-import { sendEmail } from "../email/sendEmail";
+import { sendEmail } from "../Email/sendEmail";
 
 export default function Hero() {
 
@@ -24,9 +24,7 @@ export default function Hero() {
 
   return (
     <Info>
-      <ImgHero>
-        <img className="imgHero" src={imgHero}></img>
-      </ImgHero>
+
       <Content>
         <p className="first-title"> Sua casa com as </p>
         <strong>Melhores</strong>
@@ -54,7 +52,9 @@ export default function Hero() {
           <span>{" "}</span>
           {errors.email && errors.email.message}
         </Form>
+        
       </Content>
+        <img className="imgHero" src={imgHero}></img>
     </Info>
   );
 }

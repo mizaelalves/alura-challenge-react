@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import Logo from "../Style/assets/logo.svg";
+import Logo from "../assets/logo.svg";
 import {Container, Button} from "./Styled"
 
 const links = [
@@ -11,8 +11,8 @@ const links = [
 ]
 
 
-class Navbar extends Component {
-  render() {
+export default function Navbar() {
+
     return (
       <Container >
         <div>
@@ -35,6 +35,4 @@ class Navbar extends Component {
       </Container>
     );
   }
-}
 
-export default Navbar;
